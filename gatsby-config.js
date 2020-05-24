@@ -11,7 +11,7 @@ module.exports = {
   siteMetadata: {
     title: "Gatsby Tutorial",
     description: "Some random description",
-    author: "Mark Young",
+    author: "John Doe",
     data: ["item 1", "item 2"],
     person: { name: "peter", age: 32 },
   },
